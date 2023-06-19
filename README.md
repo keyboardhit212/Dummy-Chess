@@ -19,3 +19,7 @@ A jar file is provided to simplify the execution of this program for those who a
 **java -jar jarfile.jar**
 
 However, you can just compile the project itself if you are familiar with the process of compiling and executing one since the jar file itself could be outdated.
+
+## Screenshot
+
+![Screenshot from 2023-06-19 17-02-07](https://github.com/keyboardhit212/Dummy-Chess/assets/136884319/ab167948-2819-420d-ac5b-0add8a250e69)

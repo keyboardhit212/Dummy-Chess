@@ -16,6 +16,6 @@ You might be wondering why this project is called Dummy Chess instead of just pl
 
 A jar file is provided to simplify the execution of this program for those who are not very familiar of Java or to those who are just starting out. You can execute it using the CLI (make sure that java is added into the PATH) with: 
 
-** java -jar jarfile.jar **
+**java -jar jarfile.jar**
 
 However, you can just compile the project itself if you are familiar with the process of compiling and executing one since the jar file itself could be outdated.

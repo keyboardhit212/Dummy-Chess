@@ -10,4 +10,4 @@ There are 2 play modes for this game namely: Player against Himself and Player a
 
 ## Explanation
 
-You might be wondering why this project is called Dummy Chess instead of just plainly naming it as "Chess". That's because I was initially planning on it having AI, however I am not familiar to the concepts and principles of implementing one. So The "AI" on of this project is based on pseudo random choices and not heuristics.
+You might be wondering why this project is called Dummy Chess instead of just plainly naming it as "Chess". That's because I was initially planning on it having AI, however I am not familiar to the concepts and principles of implementing one. So The "AI" of this project is based on pseudo random choices and not heuristics.
